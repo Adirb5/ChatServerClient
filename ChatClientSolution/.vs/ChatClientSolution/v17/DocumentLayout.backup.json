@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ChatClient\\ChatClient.csproj|c:\\users\\adirb\\desktop\\project\\chatserverclient\\chatclientsolution\\chatclient\\messagelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\messagelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ChatClient\\ChatClient.csproj|c:\\users\\adirb\\desktop\\project\\chatserverclient\\chatclientsolution\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ChatClient\\ChatClient.csproj|c:\\users\\adirb\\desktop\\project\\chatserverclient\\chatclientsolution\\chatclient\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageListener.cs",
+              "DocumentMoniker": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\ChatClient\\MessageListener.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MessageListener.cs",
+              "ToolTip": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\ChatClient\\MessageListener.cs",
+              "RelativeToolTip": "ChatClient\\MessageListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:35:56.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\ChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Program.cs",
+              "ToolTip": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\ChatClient\\Program.cs",
+              "RelativeToolTip": "ChatClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:35:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\ChatClient\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\adirb\\Desktop\\Project\\ChatServerClient\\ChatClientSolution\\ChatClient\\ConnectionManager.cs",
+              "RelativeToolTip": "ChatClient\\ConnectionManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:38:15.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
